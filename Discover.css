@@ -1,0 +1,7 @@
+.grid ul{
+    flex-wrap: wrap;
+}
+.grid li
+{
+    width: 18%;
+}
